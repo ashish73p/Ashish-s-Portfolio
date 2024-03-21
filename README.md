@@ -1,7 +1,7 @@
 # Ashish's Portforlio
 *Analytics Portfolio*
 
-# [Project 1: Streaming data from its source to HDFS using Apache Flume](https://github.com/EbentheAnalyst/Hadoop/blob/main/flume.coonfig)
+# [Project 1: Streaming data from its source to HDFS using Apache Flume](https://github.com/ashish73p/Hadoop/blob/main/flume.config)
 
 **Steps in configuring your Apache Flume**
 1. Open your Flume configuration file.
