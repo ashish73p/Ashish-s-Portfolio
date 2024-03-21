@@ -31,5 +31,6 @@
 Follow below steps
 
 **Sqoop Architecture**
+
 ![The high level Architecture of Sqoop !](images/sqoop.JPG)
 
