@@ -27,9 +27,6 @@
 
 ## [Project 2: Importing data from your Ms sql to Hadoop file system using sqoop]
 
-**Steps in configuring**
-Follow below steps
-
 **Sqoop Architecture**
 
 ![The high level Architecture of Sqoop !](images/sqoop.JPG)
