@@ -21,3 +21,7 @@
 15. Save the changes to your Flume configuration file.
 16. Start the Flume agent using the configured settings.
 17. Monitor the Flume logs and HDFS directory to ensure successful data transfer.
+
+**Apache Flume Architecture**
+![The high level Architecture of Apache Flume !](images/Flumes.png)
+
